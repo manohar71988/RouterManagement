@@ -1,0 +1,6 @@
+1) To run 1st excersice, please hit the link below.Laravel framework has been used.
+	http://localhost/RouterManagement/public/index.php/router/listing
+
+2)To run 2nd excercise, please check the CustomScript folder.They are all developed in core PHP.
+
+3) To run 3rd excercide,please use postman to hit the APIs.
